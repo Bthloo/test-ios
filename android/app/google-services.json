@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651269676503",
+    "firebase_url": "https://massege-c61d0-default-rtdb.firebaseio.com",
+    "project_id": "massege-c61d0",
+    "storage_bucket": "massege-c61d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651269676503:android:888da935e28b74ad353f92",
+        "android_client_info": {
+          "package_name": "com.example.moleculargenetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651269676503-c79jnorgfc2iog4gpnn0da9qkgdbfrk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBob3iHoe4fyEZ1Xey-pBP1nkxit2wcL5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651269676503-c79jnorgfc2iog4gpnn0da9qkgdbfrk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651269676503-eqdfjv0pbvqqhr85fqq5573qgpk9fm9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moleculargenetics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
